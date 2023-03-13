@@ -1,0 +1,13 @@
+-Lütfen Pizzanızı Seçiniz:
+1: Klasik Pizza - 70₺
+2: Margarita - 50₺
+3: Türk Pizza -100₺
+4: Sade Pizza - 80₺
+
+-Ekstralar:
+5: Zeytin - 3₺
+6: Mantar - 7₺
+7: Pastirma - 5₺
+8: Misir - 6₺
+
+Seçiminiz İçin Teşekkür Ederiz!
